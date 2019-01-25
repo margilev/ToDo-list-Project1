@@ -10,7 +10,7 @@ body {
 h1 {
   text-align: center;
   padding-top: 20px;
-  font-family: Pacifico,serif;
+  font-family: Pacifico, serif;
   text-shadow: 2px 1px 3px white;
   text-decoration: underline;
 }
@@ -77,7 +77,7 @@ h1 {
   width: 90%;
   background: transparent;
   border: none;
-  font-family: Courgette,serif;
+  font-family: Courgette, serif;
 }
 
 .main_input_date {
@@ -321,7 +321,7 @@ button:focus:not(:active)::after {
   width: 153px;
   height: 134px;
   color: blue;
-  font-family: Courgette,serif;
+  font-family: Courgette, serif;
 }
 
 .datestyle {
